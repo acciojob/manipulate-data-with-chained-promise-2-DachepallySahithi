@@ -1,3 +1,4 @@
+// Function to resolve a promise after 3 seconds with an array of numbers
 function getArray() {
   return new Promise((resolve) => {
     setTimeout(() => {
